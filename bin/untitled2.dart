@@ -8,6 +8,6 @@ void main(List<String> arguments) {
   //For loop to run through number from 1 to 9
   for(int i=0;i<=9;i++){
     //printing ghe result of every number from 1 to 9 multiplied by the number that the user entered
-    print(i*num1!);
+      print("$i*$num1 = ${i*num1!}");
   }
 }
